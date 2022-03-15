@@ -1,4 +1,4 @@
-# dedicated-purpose-server
+# Dedicated-purpose-server
       a part of the special project
 
 The server will have two endpoints:
